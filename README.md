@@ -6,10 +6,8 @@ This is homework1
 
 You must have Apache Maven and Java installed on your computer to run this project
 
-On mac execute: 
-```bash
-brew install maven
-```
+To install maven on ubuntu:
+https://linuxize.com/post/how-to-install-apache-maven-on-ubuntu-18-04/
 
 ## Usage
 Inside homework_one directory run:
