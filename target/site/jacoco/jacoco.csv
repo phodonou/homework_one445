@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+homework_one,com.mycompany.app,Tiger,0,15,0,0,0,4,0,2,0,2
+homework_one,com.mycompany.app,Creature,0,50,0,2,0,9,0,4,0,3
+homework_one,com.mycompany.app,Thing,0,32,0,2,0,7,0,3,0,2
+homework_one,com.mycompany.app,Ant,0,15,0,0,0,4,0,2,0,2
+homework_one,com.mycompany.app,TestCreature,3,207,0,16,1,40,1,9,1,1
+homework_one,com.mycompany.app,Fly,0,38,0,2,0,10,0,5,0,4
+homework_one,com.mycompany.app,Bat,0,38,0,2,0,10,0,5,0,4
